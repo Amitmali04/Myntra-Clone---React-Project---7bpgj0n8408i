@@ -16,8 +16,6 @@ export function SignUp() {
 
         navigate('/');  
         
-        
-
     }
     return (
         <div className='sign'>

@@ -31,8 +31,6 @@ export function SideBar({ handleGender , handleCat}) {
                     <input type="checkbox" id='t-shirt' name='t-shirt' value={'t-shirt'} onClick={handleCat} />
                     <label htmlFor="t-shirt"> T-Shirt </label>
                     <br /> 
-                    
-
                 </div>
 
             </div>
